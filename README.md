@@ -1,5 +1,5 @@
 # Tank-Detection
-Tank Detection Weights
+Tank Detection pre trained Weights using Yolo V3
 
 ![altay_l3](https://user-images.githubusercontent.com/34937698/122085567-d7106680-cdd0-11eb-83b4-3c4c0756df13.jpg)
 
