@@ -1,5 +1,5 @@
 # Tank-Detection
-Tank Detection mode
+Tank Detection Weights
 
 ![altay_l3](https://user-images.githubusercontent.com/34937698/122085567-d7106680-cdd0-11eb-83b4-3c4c0756df13.jpg)
 
@@ -34,6 +34,12 @@ so i trained Yolo model for detection a Tank in a picture
    (14 line) images_path = glob.glob(r"E:\python\images\*.jpg")                                   # put full path for test images directory
    
    Run the code <python yolo_object_detection.py>
+  
+  
+  
+  # Note
+  this project trainedonly to detect Tanks .. so if the picture conatin Cars it might detect it too since it looks similar (in general) to the Tanks
+  check updates for the repository .. i am working on updating the model
   
   # Test
   
