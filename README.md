@@ -27,13 +27,15 @@ so i trained Yolo model for detection a Tank in a picture
   download the pretrained weights feom this link
   https://drive.google.com/file/d/1mjmSb5OG2ZmtEn7opmvoip3GuI9B4390/view?usp=sharing
   
-  clone this repository
+  - clone this repository
   
-  in the yolo_object_detection.py file  you have to change the weights file path to where you download it
+  - in the yolo_object_detection.py file  you have to change the weights file path to where you download it
    (8 line)   net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")         #put full path for weights file
    (14 line) images_path = glob.glob(r"E:\python\images\*.jpg")                                   # put full path for test images directory
    
-   Run the code <python yolo_object_detection.py>
+  - Prepare test images from Kaggle dataset or from google or from where ever you want
+   
+  - Run the code <python yolo_object_detection.py>
   
   
   
