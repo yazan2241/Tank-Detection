@@ -39,7 +39,9 @@ so i trained Yolo model for detection a Tank in a picture
   
   ![1](https://user-images.githubusercontent.com/34937698/122087998-59018f00-cdd3-11eb-97f5-539b0e891d88.png)
 ![3](https://user-images.githubusercontent.com/34937698/122088125-76cef400-cdd3-11eb-97a8-980fbcc21289.png)
-![Image_screenshot_31 05 2021](https://user-images.githubusercontent.com/34937698/122088148-7cc4d500-cdd3-11eb-8c2e-de25323399c3.png)
+![4](https://user-images.githubusercontent.com/34937698/122088311-98c87680-cdd3-11eb-9c07-7e22de268c98.png)
+![2](https://user-images.githubusercontent.com/34937698/122088328-9cf49400-cdd3-11eb-98f9-522a7e045764.png)
+
 
   
   
